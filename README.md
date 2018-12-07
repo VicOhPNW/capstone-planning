@@ -1,5 +1,5 @@
 # Tastespotting
-##### Victoria O., Epicodus - October 26, 2018
+##### Victoria O., Epicodus - December 7, 2018
 
 ## Description
 Capstone is the final project for Epicodus' program. It will be a [rebuild of a website](https://atthepeakcafe.weebly.com/) for a small, local business in the Seattle area.
