@@ -1,0 +1,19 @@
+{
+  "name": "capstone",
+  "version": "1.0.0",
+  "description": "## Description Capstone is the final project for Epicodus' program. It will be a [rebuild of a website](https://atthepeakcafe.weebly.com/) for a small, local business in the Seattle area.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VicOhPNW/capstone-planning.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VicOhPNW/capstone-planning/issues"
+  },
+  "homepage": "https://github.com/VicOhPNW/capstone-planning#readme"
+}
